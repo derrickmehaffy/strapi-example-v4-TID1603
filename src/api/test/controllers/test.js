@@ -1,7 +1,5 @@
 "use strict";
 
-const { parseBody } = require('@strapi/strapi/lib/core-api/controller/transform');
-
 /**
  * test controller
  */
